@@ -80,7 +80,7 @@ namespace Marte.Exploracao.Persistencia.Repositorio
 
         private IMongoCollection<Sonda> Todas()
         {
-            return BancoDeDados.GetCollection<Sonda>("Sonda");
+            return BancoDeDados.GetCollection<Sonda>("Sonda ");
         }
     }
 }
