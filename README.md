@@ -39,7 +39,7 @@ série de instruções indicando para a sonda como ela deverá explorar o planal
 A posição é representada por dois inteiros e uma letra separados por espaços,
 correspondendo à coordenada X-Y e à direção da sonda. Cada sonda será controlada
 sequencialmente, o que quer dizer que a segunda sonda só irá se movimentar após que a
-primeira tenha terminado suas instruções.
+primeira tenha terminado suas instruções
 
 A saída deverá conter uma linha para cada sonda, na mesma ordem de entrada,
 indicando sua coordenada final e direção.
